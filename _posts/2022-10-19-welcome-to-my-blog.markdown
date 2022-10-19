@@ -1,5 +1,5 @@
 ---
-layout: A Test bost
+layout: post
 title:  "Welcome to My blog!"
 date:   2022-10-19 10:36:56 +0530
 ---
