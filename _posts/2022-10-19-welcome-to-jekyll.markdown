@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-feed:
-  path: /stories/feed.atom
+
 defaults:
   # _posts
   - scope:
