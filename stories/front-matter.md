@@ -1,7 +1,6 @@
 ---
 author: C A ArunVenkat
 
-title: Stories
 permalink: /stories/
 
 

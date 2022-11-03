@@ -1,6 +1,5 @@
 ---
 author: C A ArunVenkat
-title: About
 permalink: /about/
 
 ---
