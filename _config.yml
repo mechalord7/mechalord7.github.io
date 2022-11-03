@@ -43,7 +43,7 @@ defaults:
 #theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "neon"
 
 
 plugins:
