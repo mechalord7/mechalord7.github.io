@@ -3,7 +3,7 @@
 CA ArunVenkat:
   name        : "CA ArunVenkat"
   bio         : "I love bikes and so I write about them."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/author-ca-arunvenkat.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
