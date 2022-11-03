@@ -2,7 +2,7 @@
 author: C A ArunVenkat
 permalink: /about/
 author_profile: true
-layout: single
+#layout: single
 
 ---
 
