@@ -1,7 +1,7 @@
 ---
 author: C A ArunVenkat
-author_profile: true
-layout: single
+author_profile: false
+
 permalink: /stories/
 
 
