@@ -1,12 +1,13 @@
 ---
 author: C A ArunVenkat
 permalink: /stories/
+title: All stories
+
+---
 
 
 ---
 
-# All stories
+# Geading 1
 
----
-
-1. ???
+##  Headingg 2
