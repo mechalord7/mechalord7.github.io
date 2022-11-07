@@ -4,7 +4,7 @@ excerpt: "Welcome to my blog! Now hear me ramble."
 #excerpt: "Welcome"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Tauro, my beautiful bike"
   actions:
     - label: "Scroll Down"
 title: Rambler Talez
