@@ -1,10 +1,14 @@
 ---
 author: C A ArunVenkat
 excerpt: "Welcome to my blog! Now hear me ramble."
+#excerpt: "Welcome"
 header:
-    image: /assets/images/intro-post/bike-header-2.jpeg
-    image_description: "Tauro"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Scroll Down"
 title: Rambler Talez
+
 
 
 ---
