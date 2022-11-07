@@ -7,10 +7,9 @@ header:
 toc: True
 toc_label: "Table of Contents"
 toc_icon: "cog"
+title: Rambler Talez
 
 ---
-
-# Rambler Talez
 
 
 I'm ArunVenkat C A, people call me Arun, AV, Boss.. (um, the list might just go too long)
