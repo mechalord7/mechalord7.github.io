@@ -8,7 +8,7 @@ toc: True
 toc_label: "Table of Contents"
 toc_icon: "cog"
 title: Rambler Talez
-author_name: False
+author_profile: false
 
 ---
 
