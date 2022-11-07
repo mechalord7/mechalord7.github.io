@@ -1,10 +1,7 @@
 ---
 author: C A ArunVenkat
 permalink: /about/
-header:
-    image: /assets/images/intro-post/bike-header-2.jpeg
-    image_description: "Tauro"
-title: About me
+title: About me!
 ---
 
 
