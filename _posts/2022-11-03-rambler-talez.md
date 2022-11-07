@@ -4,11 +4,8 @@ excerpt: "Welcome to my blog! Now hear me ramble."
 header:
     image: /assets/images/intro-post/bike-header-2.jpeg
     image_description: "Tauro"
-toc: True
-toc_label: "Table of Contents"
-toc_icon: "cog"
 title: Rambler Talez
-author_profile: false
+
 
 ---
 
