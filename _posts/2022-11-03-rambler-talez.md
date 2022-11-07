@@ -3,7 +3,7 @@ author: C A ArunVenkat
 excerpt: "Welcome to my blog! Now hear me ramble."
 #excerpt: "Welcome"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/intro-post/bike-header-2.jpg
   caption: "Tauro, my beautiful bike"
   actions:
     - label: "Scroll Down"
