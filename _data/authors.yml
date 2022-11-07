@@ -8,3 +8,7 @@ C A ArunVenkat:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:Arunvenkat0909@gmail.com"
+    - label: "Instagram"
+      icon: "fas fa-fw fa-instagram"
+      url: "https://thewhip.com"
+
