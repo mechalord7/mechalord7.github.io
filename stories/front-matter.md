@@ -8,6 +8,6 @@ title: All stories
 
 ---
 
-# Geading 1
+# Coming Soon!
 
-##  Headingg 2
+##  --Heading--
