@@ -5,8 +5,6 @@ excerpt: "Welcome to my blog! Now hear me ramble."
 header:
   overlay_image: /assets/images/intro-post/bike-header-2.jpg
   caption: "Tauro"
-  actions:
-    - label: "Scroll Down"
 title: Rambler Talez
 
 
