@@ -8,6 +8,17 @@ header:
   caption: "Tauro"
 title: Rambler Talez
 
+values:
+  comments:
+    provider: "giscus"
+    giscus:
+    repo_id              : "R_kgDOIQTv6g"
+    category_name        : "Let's Talk!"
+    category_id          : "R_kgDOIQTv6g"
+    discussion_term      : "og:title"
+    reactions_enabled    : 1
+    theme                : "dark"
+
 
 
 ---
