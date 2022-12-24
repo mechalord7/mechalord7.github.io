@@ -8,9 +8,6 @@ header:
   caption: "Tauro"
 title: Rambler Talez
 
-values:
-  comments: true
-
 comments:
   provider: "giscus"
   giscus:
