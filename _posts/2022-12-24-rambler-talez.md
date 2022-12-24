@@ -3,7 +3,7 @@ author: C A ArunVenkat
 excerpt: "What are dreams? and what are they to us?"
 #excerpt: "Welcome"
 header:
-  overlay_image: /assets/images/first-post/first-postpic.jpeg
+  overlay_image: /assets/images/first-post/first-post-header.jpeg
   caption: "Tauro"
 title: Dreams
 
