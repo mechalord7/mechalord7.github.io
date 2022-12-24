@@ -4,6 +4,7 @@ excerpt: "Welcome to my blog! Now hear me ramble."
 #excerpt: "Welcome"
 header:
   overlay_image: /assets/images/intro-post/bike-header-2.jpg
+  teaser: /assets/images/intro-post/bike-header-2.jpg
   caption: "Tauro"
 title: Rambler Talez
 
