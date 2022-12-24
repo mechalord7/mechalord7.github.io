@@ -4,6 +4,7 @@ excerpt: "What are dreams? and what are they to us?"
 #excerpt: "Welcome"
 header:
   overlay_image: /assets/images/first-post/first-post-header.jpeg
+  teaser: /assets/images/first-post/first-post-header.jpeg
   caption: "scram411"
 title: Dreams
 
