@@ -1,6 +1,6 @@
 ---
 author: C A ArunVenkat
-excerpt: "Welcome to my blog! Now hear me ramble."
+excerpt: "What are dreams? and what are they to us?"
 #excerpt: "Welcome"
 header:
   overlay_image: /assets/images/first-post/first-postpic.jpeg
