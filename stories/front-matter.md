@@ -8,6 +8,9 @@ title: All stories
 
 ---
 
-# Coming Soon!
+# Read 'em all!
 
-##  --Heading--
+##  Dreams
+permalink: /_posts/2022-12-24-rambler-talez.md/
+
+---
