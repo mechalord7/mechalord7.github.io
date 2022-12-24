@@ -7,16 +7,6 @@ header:
   teaser: /assets/images/intro-post/bike-header-2.jpg
   caption: "Tauro"
 title: Rambler Talez
-
-comments:
-  provider: "giscus"
-  giscus:
-    repo_id              : "R_kgDOIQTv6g"
-    category_name        : "General"
-    category_id          : "R_kgDOIQTv6g"
-    discussion_term      : "pathname"
-    reactions_enabled    : 1
-    theme                : "dark"
       
 ---
 
