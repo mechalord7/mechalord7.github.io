@@ -51,8 +51,8 @@ repository: mechalord7/mechalord7.github.io
 
 comments:
   #provider: "giscus"
-  provider: "discus"
-  discus:
+  provider: "disqus"
+  disqus:
     shortname: "mechalord7-github-io"
   #giscus:
     #repo_id              : "R_kgDOIQTv6g"
