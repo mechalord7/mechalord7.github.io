@@ -50,14 +50,17 @@ defaults:
 repository: mechalord7/mechalord7.github.io
 
 comments:
-  provider: "giscus"
-  giscus:
-    repo_id              : "R_kgDOIQTv6g"
-    category_name        : "General"
-    category_id          : "DIC_kwDOIQTv6s4CSYYH"
-    discussion_term      : "pathname"
-    reactions_enabled    : 1
-    theme                : "dark"
+  #provider: "giscus"
+  provider: "discus"
+  discus:
+    shortname: "mechalord7-github-io"
+  #giscus:
+    #repo_id              : "R_kgDOIQTv6g"
+    #category_name        : "General"
+    #category_id          : "DIC_kwDOIQTv6s4CSYYH"
+    #discussion_term      : "pathname"
+    #reactions_enabled    : 1
+    #theme                : "dark"
 
 # Build settings
 #theme: minima
