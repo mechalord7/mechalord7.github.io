@@ -3,8 +3,8 @@ author: C A ArunVenkat
 excerpt: "First love."
 #excerpt: "Welcome"
 header:
-  overlay_image: /assets/images/third-post/supernice.jpeg
-  teaser: /assets/images/third-post/supernice.jpeg
+  overlay_image: /assets/images/third-post/thirdPost1.jpeg
+  teaser: /assets/images/third-post/thirdPost1.jpeg
   caption: "Tauro"
 title: Tauro
       
