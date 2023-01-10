@@ -21,3 +21,7 @@ Observing, detailing and giving you my opinion on what I experience or learn abo
 I believe in sharing, inculcating or rather instilling beautiful ideologies and just beautiful things in general and I would like you to experience this passion of mine as I put it in words here.
 
 This is Rambler Talez, a blog for all those motorcycle enthusiasts, travellers or even just avid readers out there!
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.148.0/three.min.js"></script>
+<link rel="stylesheet" href="/assets/style.css">
+<script src='/assets/cube.js'></script>
