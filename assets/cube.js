@@ -11,7 +11,7 @@ function init() {
 
     // scene
     scene = new THREE.Scene();
-    scene.background = new THREE.Color(0xffffff);
+    //scene.background = new THREE.Color(0xffffff);
     geometry = new THREE.BoxGeometry(1, 1, 1);
     material = new THREE.MeshNormalMaterial();
     mesh = new THREE.Mesh(geometry, material);
@@ -22,7 +22,8 @@ function init() {
     camera.position.z = 2;
 
     // renderer
-    renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+    renderer.setClearColor(0x000000, 0);
     renderer.setPixelRatio(window.devicePixelRatio);
     renderer.setSize(width, height);
     container.appendChild(renderer.domElement);
