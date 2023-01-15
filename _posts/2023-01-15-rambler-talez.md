@@ -3,8 +3,8 @@ author: C A ArunVenkat
 excerpt: "A younger sibling for the young?"
 #excerpt: "Welcome"
 header:
-  overlay_image: 
-  teaser: 
+  overlay_image: /assets/images/fourth-post/scram.jpg
+  teaser: /assets/images/fourth-post/scram.jpg
   caption: ""
 title: Scram away
       
