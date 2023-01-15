@@ -1,11 +1,11 @@
 ---
 author: C A ArunVenkat
-excerpt: "A younger sibling for the "young"!"
+excerpt: "A younger sibling for the <young>!"
 #excerpt: "Welcome"
 header:
   overlay_image: 
   teaser: 
-  caption: 
+  caption: ""
 title: Scram away
       
 ---
