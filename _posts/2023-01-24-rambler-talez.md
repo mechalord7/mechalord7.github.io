@@ -3,8 +3,8 @@ author: C A ArunVenkat
 excerpt: "Playing field: Thick Urban Jungle"
 #excerpt: "Welcome"
 header:
-  overlay_image: /assets/images/fifth-post/Hunter350.jpg
-  teaser: /assets/images/fifth-post/Hunter350.jpg
+  overlay_image: /assets/images/fifth-post/Hunter350.jpeg
+  teaser: /assets/images/fifth-post/Hunter350.jpeg
   caption: ""
 title: The Urban Hunter
       
@@ -26,4 +26,5 @@ We had a great time with the motorcycle and overall I think this different appro
 
 An urban jungle hunter that loses its prowess in long stretches of tarmac, that's how I would give it a one-liner.
 A big thanks and full credit to my friend Sai for the amazing photos!
+
 Ride Big! Ride Safe!
