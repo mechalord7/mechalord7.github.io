@@ -3,8 +3,8 @@ author: C A ArunVenkat
 excerpt: "The cool guy who excels at sports"
 #excerpt: "Welcome"
 header:
-  overlay_image: /assets/images/sixth-post/xpulse_header.jpeg
-  teaser: /assets/images/sixth-post/xpulse_header.jpeg
+  overlay_image: /assets/images/sixth_post/xpulse_header.jpeg
+  teaser: /assets/images/sixth_post/xpulse_header.jpeg
   caption: ""
 title: A Hero Off the Road
       
@@ -22,7 +22,7 @@ Let's talk about three things the Xpulse did great:
 
 3. Refinement: A 200cc single would straight away be presumed as sluggish and vibey. Not in this one, the engine was smooth and with a tune so on-point, it sounded and rode admirably. It starts getting dull at the top, but that's just me, expecting too much. 
 
-![](/assets/images/sixth-post/xpulse.jpeg)
+![](/assets/images/sixth_post/xpulse.jpeg)
 
 Two issues I thought could've been better were:
 
