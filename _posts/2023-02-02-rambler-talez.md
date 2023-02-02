@@ -3,8 +3,8 @@ author: C A ArunVenkat
 excerpt: "The cool guy who excels at sports"
 #excerpt: "Welcome"
 header:
-  overlay_image: /assets/images/sixth_post/xpulse_header.jpeg
-  teaser: /assets/images/sixth_post/xpulse_header.jpeg
+  overlay_image: /assets/images/sixth_post/xpulse_header1.jpeg
+  teaser: /assets/images/sixth_post/xpulse_header1.jpeg
   caption: ""
 title: A Hero Off the Road
       
