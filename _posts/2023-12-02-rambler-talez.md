@@ -1,6 +1,6 @@
 ---
 author: C A ArunVenkat
-excerpt: "Therapy - Ride"
+excerpt: "Need Therapy? - Na, just ride!"
 #excerpt: "Welcome"
 header:
   overlay_image: /assets/images/seventh-post/Seventh_Post_Header.jpeg
