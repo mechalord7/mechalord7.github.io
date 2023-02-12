@@ -3,8 +3,8 @@ author: C A ArunVenkat
 excerpt: "Need Therapy? - Na, just ride!"
 #excerpt: "Welcome"
 header:
-  overlay_image: /assets/images/seventh-post/Seventh_Post_Header.jpeg
-  teaser: /assets/images/seventh-post/Seventh_Post_Header.jpeg
+  overlay_image: /assets/images/seventh-post/Seventh_Post_Body.jpeg
+  teaser: /assets/images/seventh-post/Seventh_Post_Body.jpeg
   caption: ""
 title: Ride to Bidadi
       
@@ -19,7 +19,7 @@ The cold gusts of wind and foggy landscape welcomed us with open arms. The roar 
 
 We were going to Bidadi to have some "thatte-idli" which is a famous dish in that locality. Well, that was just a mere excuse to go on a long ride, this was after all my first long ride! Taking the NICE road was the best choice as it would have been taxing to go through the city. The wide winding roads were a charm as I just glided along with ease. Exiting NICE road, we were in for some amazing twisted and narrow roads. What a treat!
 
-![](/assets/images/seventh-post/Seventh_Post_Body.jpeg)
+![](/assets/images/seventh-post/Seventh_Post_Header.jpeg)
 
 We saw a few other motorcyclists on the way who were probably just like us enjoying the Sunday morning on the saddles of their motorcycles. They were much more experienced and keeping up with their pace itself was a challenge on it's own which made me realize how much of a big journey lies ahead of me in being a motorcyclist. It was nice to see fellow passionate motorcyclists! 
 
