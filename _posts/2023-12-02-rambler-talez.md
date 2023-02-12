@@ -21,7 +21,7 @@ We were going to Bidadi to have some "thatte-idli" which is a famous dish in tha
 
 ![](/assets/images/seventh-post/Seventh_Post_Body.jpeg)
 
-We saw a few other motorcyclists on the way who were probably just like us enjoying the Sunday morning on the saddles of their motorcycles. They were much more experienced and keeping up with their pace itself was a challenge on it's own which made me realize how much of a big journey lies ahead of me in this journey of being a motorcyclist. It was nice to see fellow passionate motorcyclists! 
+We saw a few other motorcyclists on the way who were probably just like us enjoying the Sunday morning on the saddles of their motorcycles. They were much more experienced and keeping up with their pace itself was a challenge on it's own which made me realize how much of a big journey lies ahead of me in being a motorcyclist. It was nice to see fellow passionate motorcyclists! 
 
 Reaching the restaurant, we saw that the place was already crowded, and it was only half past 6 a.m. We found a place to sit, got our orders, and had a refreshing and satisfying breakfast. It was worth it to have gone all the way for that! Chilly mornings and breakfasts like this were a whole different experience that was just fabulous!
 Riding back, we were back to our abodes in no time, and parking my bike at the usual spot, I looked back and felt a sense of gratitude to the machine. It was truly wholesome, I must say!
