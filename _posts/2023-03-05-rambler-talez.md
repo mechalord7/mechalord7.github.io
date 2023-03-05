@@ -3,8 +3,8 @@ author: C A ArunVenkat
 excerpt: "Did you just think you couldn't do that?"
 #excerpt: "Welcome"
 header:
-  overlay_image: /assets/images/eight_post/Me_with_GS.jpeg
-  teaser: /assets/images/eight_post/Me_with_GS.jpeg
+  overlay_image: /assets/images/eight-post/Me_with_GS.jpeg
+  teaser: /assets/images/eight-post/Me_with_GS.jpeg
   caption: ""
 title: Motorycling Skills
       
