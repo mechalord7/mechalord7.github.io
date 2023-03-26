@@ -3,8 +3,8 @@ author: C A ArunVenkat
 excerpt: "How do you handle different terrain?"
 #excerpt: "Welcome"
 header:
-  overlay_image: /assets/images/ninth-post/Tenth3.jpeg
-  teaser: /assets/images/ninth-post/Tenth3.jpeg
+  overlay_image: /assets/images/ninth-post/Tenth1.jpeg
+  teaser: /assets/images/ninth-post/Tenth1.jpeg
   caption: ""
 title: Essentials? Not the tools!
       
